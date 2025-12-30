@@ -1,0 +1,15 @@
+{
+    "manifest_version": 3,
+    "name": "ColorPicker",
+    "description": "Stop guessing hex codes! This lightweight, high-performance extension allows you to grab any color from any website with a single click. Designed for designers and developers who need speed and accuracy.",
+    "version": "1.0",
+    "action": {
+        "default_popup": "Extension.html"
+    },
+    "icons": {
+        "16": "icons/icon16.png",
+        "32": "icons/icon32.png",
+        "48": "icons/icon48.png",
+        "128": "icons/icon128.png"
+    }
+}
